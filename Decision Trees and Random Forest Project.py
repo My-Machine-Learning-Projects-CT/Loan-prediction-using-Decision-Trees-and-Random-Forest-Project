@@ -2,6 +2,7 @@
 # coding: utf-8
 
 
+
 # Here are what the columns represent:
 # * credit.policy: 1 if the customer meets the credit underwriting criteria of LendingClub.com, and 0 otherwise.
 # * purpose: The purpose of the loan (takes values "credit_card", "debt_consolidation", "educational", "major_purchase", "small_business", and "all_other").
