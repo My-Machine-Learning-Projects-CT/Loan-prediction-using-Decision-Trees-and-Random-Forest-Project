@@ -5,6 +5,7 @@ Analysing publicly available data from LendingClub.com. Lending Club connects pe
 
 
 
+
 ![image](https://user-images.githubusercontent.com/48589838/77820308-4c7a1380-7107-11ea-8ab5-007c7140fad5.png)
 
 ![image](https://user-images.githubusercontent.com/48589838/77820310-50a63100-7107-11ea-82a1-ca735e286380.png)
